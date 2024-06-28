@@ -19,7 +19,6 @@ WP Robots txt Editor vous permet de modifier facilement le fichier robots.txt de
 * Ajouter des directives Allow et Disallow sur des User-agent
 * Sélectionner par publications, catégorie, moteurs de recherche, sitemap, flux rss
 * Sélectionner les types de contenu pour activer les options robots.txt
-* Visualisez le statut des directives robots.txt pour chaque publication
 * Génération de robots.txt par défaut
 * Interface conviviale
 
