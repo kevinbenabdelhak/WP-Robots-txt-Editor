@@ -12,13 +12,12 @@ WP Robots txt Editor permet de modifier le fichier robots.txt via une interface 
 
 == Description ==
 
-WP Robots txt Editor vous permet de modifier facilement le fichier robots.txt de votre site WordPress depuis le tableau de bord de l'administration. Vous pouvez ajouter, modifier ou supprimer des directives, ainsi que gérer les types de contenu spécifiques.
+WP Robots txt Editor vous permet de modifier facilement le fichier robots.txt de votre site WordPress depuis le tableau de bord de l'administration. Vous pouvez ajouter, modifier ou supprimer des directives en fonction des publications et  catégories de votre site. 
 
 = Fonctionnalités =
 * Modifier le fichier robots.txt depuis le tableau de bord
 * Ajouter des directives Allow et Disallow sur des User-agent
 * Sélectionner par publications, catégorie, moteurs de recherche, sitemap, flux rss
-* Sélectionner les types de contenu pour activer les options robots.txt
 * Génération de robots.txt par défaut
 * Interface conviviale
 
