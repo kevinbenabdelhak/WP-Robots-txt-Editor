@@ -27,7 +27,7 @@ WP Robots txt Editor vous permet de modifier facilement le fichier robots.txt de
 
 1. Téléchargez le dossier du plugin.
 2. Extrayez les fichiers compressés.
-3. Téléchargez le dossier `mon-plugin-robots-txt` dans le répertoire `/wp-content/plugins/` de votre site WordPress.
+3. Téléchargez le fichier dans le répertoire `/wp-content/plugins/` de votre site WordPress.
 4. Activez le plugin via le menu 'Plugins' dans WordPress.
 5. Accédez à 'Paramètres' -> 'Robots.txt' pour modifier le fichier robots.txt.
 
@@ -41,14 +41,6 @@ Vous pouvez ajouter des directives `User-agent`, `Disallow`, `Allow` et `Sitemap
 
 = Le plugin est-il compatible avec tous les thèmes ? =
 Oui, ce plugin fonctionne indépendamment des thèmes et ne doit mettre en conflict aucun de vos styles ou fonctions.
-
-== Screenshots ==
-
-1. Interface principale pour modifier le fichier robots.txt
-2. Sélection des directives à ajouter
-3. Sélectionner les types de contenu pour activer les options robots.txt
-4. Meta Box sur les types de contenu sélectionnés
-
 == Changelog ==
 
 = 1.0 =
