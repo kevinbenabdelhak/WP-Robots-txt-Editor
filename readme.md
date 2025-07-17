@@ -58,3 +58,7 @@ Oui, ce plugin fonctionne indépendamment des thèmes et ne doit pas entrer en c
 ## License
 
 Ce plugin est distribué sous la licence GPLv2 ou ultérieure. Pour de plus amples informations, veuillez consulter [GPL License](http://www.gnu.org/licenses/gpl-2.0.html).
+
+<a href="https://kevin-benabdelhak.fr/soutenir/">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0cmdrdnNjcXlxb3hrcG15YmpzYWRqZ3BpeHNyY3I4YjZ1eXc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9mgVlsCuv6XCDK8Lb/giphy.gif" alt="Soutenir Kevin Benabdelhak pour développer des plugins WordPress" style="width:100%;" />
+</a>
